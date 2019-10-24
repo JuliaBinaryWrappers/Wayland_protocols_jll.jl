@@ -1,81 +1,81 @@
 [[Wayland_protocols]]
 arch = "armv7l"
-git-tree-sha1 = "fe6c55b3613c4aa8ff7ee95d57eef5387f39c93c"
+git-tree-sha1 = "526317ae76babe570bfee4a4d90813611dcf6237"
 libc = "glibc"
 os = "linux"
 
     [[Wayland_protocols.download]]
-    sha256 = "cd0bf24027a1f4b1957b5288d154350f82c6821998d385fc52cde4b1473ca34b"
-    url = "https://github.com/JuliaBinaryWrappers/Wayland_protocols_jll.jl/releases/download/Wayland_protocols-v1.18.0+0/Wayland_protocols.v1.18.0.arm-linux-gnueabihf.tar.gz"
+    sha256 = "64d13b526317ac0db43d171183ac1549b450fd42f7afc8a7d2e82a02bd3267e5"
+    url = "https://github.com/JuliaBinaryWrappers/Wayland_protocols_jll.jl/releases/download/Wayland_protocols-v1.18.0+1/Wayland_protocols.v1.18.0.arm-linux-gnueabihf.tar.gz"
 [[Wayland_protocols]]
 arch = "aarch64"
-git-tree-sha1 = "2a42f99830bdf0a0b03d954efdfb560d3004c224"
+git-tree-sha1 = "ba695f115bfd27f6baa95fd0db4c0d67f2dd657b"
 libc = "musl"
 os = "linux"
 
     [[Wayland_protocols.download]]
-    sha256 = "4baebe7de220640eb8749096c069430ef93cc8c48d53973161e1d857a5f8e0d3"
-    url = "https://github.com/JuliaBinaryWrappers/Wayland_protocols_jll.jl/releases/download/Wayland_protocols-v1.18.0+0/Wayland_protocols.v1.18.0.aarch64-linux-musl.tar.gz"
+    sha256 = "0dfef9bed83205a4aca1da77848e85d0798d11e1db075eac0f820dcd455c02b1"
+    url = "https://github.com/JuliaBinaryWrappers/Wayland_protocols_jll.jl/releases/download/Wayland_protocols-v1.18.0+1/Wayland_protocols.v1.18.0.aarch64-linux-musl.tar.gz"
 [[Wayland_protocols]]
 arch = "i686"
-git-tree-sha1 = "e8189b290678984033739660cc628c02abc6cdfd"
+git-tree-sha1 = "098d8c6afface25d7289e21e5d8c43fcdd0110fe"
 libc = "musl"
 os = "linux"
 
     [[Wayland_protocols.download]]
-    sha256 = "b8dd99d9cd386ec7c8a24e6708167f21ae2f3767da732076fc86c3660fd1b33e"
-    url = "https://github.com/JuliaBinaryWrappers/Wayland_protocols_jll.jl/releases/download/Wayland_protocols-v1.18.0+0/Wayland_protocols.v1.18.0.i686-linux-musl.tar.gz"
+    sha256 = "1980ead23ca721a41c2efe0f8ecde1a188cc6a7ca74059c2ffafe0cc1018c0ec"
+    url = "https://github.com/JuliaBinaryWrappers/Wayland_protocols_jll.jl/releases/download/Wayland_protocols-v1.18.0+1/Wayland_protocols.v1.18.0.i686-linux-musl.tar.gz"
 [[Wayland_protocols]]
 arch = "i686"
-git-tree-sha1 = "62054a96b033f4cd7a440f20908acd9e7c0634d7"
+git-tree-sha1 = "6b9ffa737a0263ff23104f4cd69cee4ff00bc46e"
 libc = "glibc"
 os = "linux"
 
     [[Wayland_protocols.download]]
-    sha256 = "8a8ccb9e5f826970f556163103d7493cf691d22db526c4c5975b78be60c76114"
-    url = "https://github.com/JuliaBinaryWrappers/Wayland_protocols_jll.jl/releases/download/Wayland_protocols-v1.18.0+0/Wayland_protocols.v1.18.0.i686-linux-gnu.tar.gz"
+    sha256 = "ade33066895ffb7ecabbe9df305c7c5da4ecd9115b2324c9b093e44f704ca7b3"
+    url = "https://github.com/JuliaBinaryWrappers/Wayland_protocols_jll.jl/releases/download/Wayland_protocols-v1.18.0+1/Wayland_protocols.v1.18.0.i686-linux-gnu.tar.gz"
 [[Wayland_protocols]]
 arch = "powerpc64le"
-git-tree-sha1 = "0474d62cd3f3f89346422a2b8ed9c9034fa1034e"
+git-tree-sha1 = "69db6f5da88f8299471cf7e04ec894e8aa4bd6fe"
 libc = "glibc"
 os = "linux"
 
     [[Wayland_protocols.download]]
-    sha256 = "4b0df982438d5aa9d21b9de6d284251b64193f20ecb1f95ce7f26f7b7af4e9c6"
-    url = "https://github.com/JuliaBinaryWrappers/Wayland_protocols_jll.jl/releases/download/Wayland_protocols-v1.18.0+0/Wayland_protocols.v1.18.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "0309a182afb2772dd40f11a9223a6e1dce28a3a803f15cedaf58d0326cbcbb0f"
+    url = "https://github.com/JuliaBinaryWrappers/Wayland_protocols_jll.jl/releases/download/Wayland_protocols-v1.18.0+1/Wayland_protocols.v1.18.0.powerpc64le-linux-gnu.tar.gz"
 [[Wayland_protocols]]
 arch = "armv7l"
-git-tree-sha1 = "55c1cd0c8c17267ce19e9990d59e7639e309746e"
+git-tree-sha1 = "7a740feb8f1b363473c11fbcab8429f6bc62824a"
 libc = "musl"
 os = "linux"
 
     [[Wayland_protocols.download]]
-    sha256 = "baf83adb573ae0318a1602666b2a75228f35508e116b1bf0b14ddb818424cb61"
-    url = "https://github.com/JuliaBinaryWrappers/Wayland_protocols_jll.jl/releases/download/Wayland_protocols-v1.18.0+0/Wayland_protocols.v1.18.0.arm-linux-musleabihf.tar.gz"
+    sha256 = "9b90104087335f309f1cb305b95ba333707c1ceb0d3626b2968d755f468f6d3c"
+    url = "https://github.com/JuliaBinaryWrappers/Wayland_protocols_jll.jl/releases/download/Wayland_protocols-v1.18.0+1/Wayland_protocols.v1.18.0.arm-linux-musleabihf.tar.gz"
 [[Wayland_protocols]]
 arch = "aarch64"
-git-tree-sha1 = "3e2ded9319c3ff483722bdaeef231e2c17a98b15"
+git-tree-sha1 = "4ede96658bff78f3610a77079711319b6c261505"
 libc = "glibc"
 os = "linux"
 
     [[Wayland_protocols.download]]
-    sha256 = "7957ec7e5c6571e03a220826039e4711be9bf6d481144fa138493086fb72557f"
-    url = "https://github.com/JuliaBinaryWrappers/Wayland_protocols_jll.jl/releases/download/Wayland_protocols-v1.18.0+0/Wayland_protocols.v1.18.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "ab5e44ab3a1978d6443877580d14e7d7cd2f7864765528a666b3fdecf7a43ba9"
+    url = "https://github.com/JuliaBinaryWrappers/Wayland_protocols_jll.jl/releases/download/Wayland_protocols-v1.18.0+1/Wayland_protocols.v1.18.0.aarch64-linux-gnu.tar.gz"
 [[Wayland_protocols]]
 arch = "x86_64"
-git-tree-sha1 = "cc793afb79bbd267afca8a8b314488565f964aa1"
+git-tree-sha1 = "6f0eef1c095d62fbca21cebec6ab5a4d19ed7433"
 libc = "glibc"
 os = "linux"
 
     [[Wayland_protocols.download]]
-    sha256 = "d17051d10384368843326e003d7f4df24b8f54ca8f59ea974b9db9ec10a5a989"
-    url = "https://github.com/JuliaBinaryWrappers/Wayland_protocols_jll.jl/releases/download/Wayland_protocols-v1.18.0+0/Wayland_protocols.v1.18.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "769d88c46b1de2e502c4747addda5449bedd518f504d3efef5bdaaba2645a3f4"
+    url = "https://github.com/JuliaBinaryWrappers/Wayland_protocols_jll.jl/releases/download/Wayland_protocols-v1.18.0+1/Wayland_protocols.v1.18.0.x86_64-linux-gnu.tar.gz"
 [[Wayland_protocols]]
 arch = "x86_64"
-git-tree-sha1 = "7e2a6744709112024db2721939e5814a3e7fdc77"
+git-tree-sha1 = "1d7b24dbfba62478f41f7755467a9618628e656f"
 libc = "musl"
 os = "linux"
 
     [[Wayland_protocols.download]]
-    sha256 = "29455b2f98a265d945b4480cc488266821d58254e4ecb1185f6c1e14882c7edf"
-    url = "https://github.com/JuliaBinaryWrappers/Wayland_protocols_jll.jl/releases/download/Wayland_protocols-v1.18.0+0/Wayland_protocols.v1.18.0.x86_64-linux-musl.tar.gz"
+    sha256 = "951a01677ac46ff3b853e49b27ccd1e37ad41efec90a18125566ec201c325f71"
+    url = "https://github.com/JuliaBinaryWrappers/Wayland_protocols_jll.jl/releases/download/Wayland_protocols-v1.18.0+1/Wayland_protocols.v1.18.0.x86_64-linux-musl.tar.gz"
