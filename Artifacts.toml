@@ -1,6 +1,6 @@
 [Wayland_protocols]
-git-tree-sha1 = "3797fea509cb45b7acfa86b1c5e11281e29b21d0"
+git-tree-sha1 = "85741e622bfd4ebed9c4ab3a4c5748e78e6104c6"
 
     [[Wayland_protocols.download]]
-    sha256 = "a6173296f49e5b7307dfaf3342fd95608f5aa487fd1c57cf8b3a90c7d0aa2199"
+    sha256 = "c47c46cd5d6b6db6e1e56cfa900427d8b781c0b00a05bf970c0b2e90d903df98"
     url = "https://github.com/JuliaBinaryWrappers/Wayland_protocols_jll.jl/releases/download/Wayland_protocols-v1.23.0+0/Wayland_protocols.v1.23.0.any.tar.gz"
